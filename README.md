@@ -32,18 +32,3 @@
 </p>
 
 <br/>  
-
-
-
-
-### Github Stats  
-<div align="center">
-<table><tr>
-<td algn="center" valign="center">
-    <img src="https://github-readme-stats-fork-beta.vercel.app/api?username=Accelerator12919&show_icons=true&count_private=true&hide_border=true&cache_seconds=1" align="center" style="height: 250px" />
-</td>
-<td align="center" valign="center">
-    <img src="https://github-readme-stats-fork-beta.vercel.app/api/top-langs/?username=Accelerator12919&hide_border=true&layout=compact&cache_seconds=1" align="center" style="height: 250px"/>
-</td>
-</tr></table>
-</div>
