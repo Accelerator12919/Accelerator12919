@@ -27,7 +27,7 @@
   
 * 🤤 My recent works focus on **Federated Learning** and **Knowledge Distillation**.
   
-* 🎮 I am passionate about **Starcraft II**, **Hearthstone**.
+* 🎮 I am passionate about **Starcraft II**, **Dota2** and **Hearthstone**.
   
 </p>
 
